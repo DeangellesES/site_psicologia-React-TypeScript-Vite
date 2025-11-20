@@ -19,20 +19,15 @@
 
 <h2>⚙️ Detalhes Técnicos</h2>
 <ul>
-  <li>icones do Fontawesome utilizados com cdn no arquivo html</li>
-  <li>CSS organizado em arquivos CSS</li>
-  <li>framework jQuery utilizado</li>
-  <li>HTML semântico e bem estruturado</li>
-  <li>imagens com extensão svg</li>
-  <li>importação e exportação entre arquivos CSS</li>
-  <li>fonte utilizada o goolge fontes e importada no arquivo css</li>
-  <li>:root para criação de variáveis</li>
-  <li>flex box css</li>
-  <li>box-shadow: 0px 0px 10px 2px rgba(0, 0, 0, 0.1);</li>
-  <li>pseudo classe :hover</li>
-  <li>calc(100vh - 91px) </li>
-  <li>Manipulação de DOM com JavaScript</li>
-  <li>evento de scroll e click</li>
-  <li>efeitos com CSS e JavaScript com controle de posição</li>
-  <li>toggleClass()</li>
+  <li>icones do React Icons</li>
+  <li>fonte do Google fonts</li>
+  <li>useEffect, useState utilizados</li>
+  <li>styled-components usado para a estilização com aninhamentos</li>
+  <li>funcionalidade de quando o header estiver no topo da página ficar transparente ao descer mudar para branco, usando evento de scroll</li>
+  <li>navegação entre a página com links direcionados em React</li>
+  <li>efeito de ficar branco na parte de baixo para cima em uma determinada div com ::after</li>
+  <li>transform Scale(1.1) para aumentar no :hover e esconder o que passar com overflow:hidden</li>
+  <li>utilização de varias imagems</li>
+  <li>mapa do Google Maps incorporado na seção contato</li>
+  <li>transform: translateY(-10px); usado para subir icone</li>
 </ul>
