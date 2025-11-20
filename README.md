@@ -7,7 +7,7 @@
 
 <h2>🚀 Tecnologias Utilizadas</h2>
 <ul>
-  <li><b>JavaScript</b> - React - TypeScript</li>
+  <li><b>JavaScript</b> - React - styled-components - TypeScript - Vite</li>
 </ul>
 
 <h2>✨ Funcionalidades</h2>
